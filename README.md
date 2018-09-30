@@ -1,2 +1,2 @@
 # scala-conf-reader
-Experiment with conf reading funcntionally
+Experiment with conf reading functionally
